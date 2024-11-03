@@ -1,0 +1,24 @@
+{
+  "categoryapi": [
+    {
+      "id": "ccad",
+      "catName": "Mobile"
+    },
+    {
+      "id": "e8dc",
+      "catName": "Televison"
+    },
+    {
+      "id": "330a",
+      "catName": "Telephone"
+    },
+    {
+      "id": "65b8",
+      "catName": "car"
+    }
+  ],
+  "productapi": [],
+  "cartapi": [],
+  "sellerapi": [],
+  "orderapi": []
+}
